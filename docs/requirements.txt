@@ -1,9 +1,6 @@
-numpy==2.4.2
-packaging @ file:///home/task_176104874909647/conda-bld/packaging_1761049078203/work
-pandas==3.0.0
-pybedtools==0.12.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_numpy_1770098484/work/dist/numpy-2.4.2-cp312-cp312-linux_x86_64.whl#sha256=b7bef5ec2cd1cc474384a65c015869d8df9b26ffcb0de8674705011d77d42046
+packaging @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_packaging_1769093650/work
+pybedtools @ file:///opt/conda/conda-bld/pybedtools_1742150951688/work
 pysam==0.23.3
-python-dateutil==2.9.0.post0
-setuptools==80.10.2
-six==1.17.0
+setuptools==82.0.0
 wheel==0.46.3
