@@ -15,3 +15,5 @@ Raw data obtained from
 - ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/phase1/analysis_results/integrated_call_sets/ALL.wgs.integrated_phase1_v3.20101123.snps_indels_sv.sites.vcf.gz
 - ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_19/gencode.v19.annotation.gff3.gz
 
+## Analysis
+[Jupyter Notebook](https://github.com/AEnyioko/VariantAnalysisVCF/blob/main/variant-analysis.ipynb)
