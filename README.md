@@ -6,7 +6,7 @@ Extracting mutations from the 1000 Genomes Project on the genes on chromosome 19
 
 https://daler.github.io/pybedtools/main.html
 
-conda create -n env_name
+conda create -n env_name \
 conda install --channel conda-forge --channel bioconda pybedtools
 
 ## Data Description
